@@ -8,3 +8,8 @@
     <a href="https://github.com/varkely/skinhub"><strong>skinhub »</strong></a>
   </p>
 </p>
+
+  <a href="https://open.spotify.com/user/31gdb2bkg2t3xfbggprclqpr7vg4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gdb2bkg2t3xfbggprclqpr7vg4&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
