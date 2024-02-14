@@ -5,7 +5,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/varkely/skinhub"><strong>skinhub »</strong></a>
+    <a href="https://github.com/lochlane/skins"><strong>skinhub »</strong></a>
   </p>
 </p>
 
