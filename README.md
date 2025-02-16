@@ -1,13 +1,7 @@
 <br />
 <p align="center">
-  osu! player
+  random projects when i get an idea
   </p>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/cuttinglanes/skins"><strong>skinhub »</strong></a>
-  </p>
-</p>
 
 
 
@@ -17,3 +11,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gdb2bkg2t3xfbggprclqpr7vg4&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+
+<br />
+<p align="center">
+  if you wish to contact me for whatever reason please do via discord : cuttinglanes
+  </p>
